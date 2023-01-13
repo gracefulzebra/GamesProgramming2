@@ -1,0 +1,15 @@
+﻿  ObjectHandler.cpp
+  SkyBoxRenderer.cpp
+  VisualDisplay.cpp
+  main.cpp
+  Game.cpp
+  MeshHandler.cpp
+  obj_loader.cpp
+C:\Users\Oliver xD\Desktop\Unity Projects\GamesProgramming2\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  AudioHandler.cpp
+C:\Users\Oliver xD\Desktop\Unity Projects\GamesProgramming2\Lab1\AudioHandler.cpp(54,15): warning C4018: '>': signed/unsigned mismatch
+  ShaderHandler.cpp
+  TextureHandler.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\Oliver xD\Desktop\Unity Projects\GamesProgramming2\Debug\Lab1.exe
